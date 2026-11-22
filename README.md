@@ -1,6 +1,6 @@
 # Murilo Lobo
 
-Science and Technology undergraduate at UFRN (Natal, Brazil), heading to Computer Engineering, currently focused on C++ and computer vision.
+Science and Technology undergraduate at UFRN (Natal, Brazil), already on the Computer Engineering track, which I will continue in the program's second cycle. Currently focused on C++ and computer vision.
 
 ## Research
 
@@ -22,7 +22,7 @@ Science and Technology undergraduate at UFRN (Natal, Brazil), heading to Compute
 
 # Em português
 
-Graduando em Ciências e Tecnologia na UFRN (Natal, RN), rumo a Engenharia de Computação, com foco atual em C++ e visão computacional.
+Graduando em Ciências e Tecnologia na UFRN (Natal, RN), já na ênfase em Engenharia de Computação, que vou cursar no segundo ciclo. Foco atual em C++ e visão computacional.
 
 ## Pesquisa
 
